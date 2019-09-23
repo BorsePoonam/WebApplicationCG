@@ -8,5 +8,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World! from home page");
         }
+        void Run()
+        {
+            Console.WriteLine("Hello World! from Run page");
+        }
     }
 }
