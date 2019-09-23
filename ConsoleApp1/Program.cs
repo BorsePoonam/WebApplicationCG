@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World! from Run page");
         }
+        void Poise()
+        {
+            Console.WriteLine("Hello World! from Poise page");
+        }
     }
 }
